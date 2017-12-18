@@ -1,0 +1,665 @@
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+A
+A has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+1
+Enter a symbol consisting of 1-6 char: 
+B
+B has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+C
+C has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+D
+D has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+E
+E has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+F
+F has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+G
+G has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+H
+H has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+I
+I has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+J
+J has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+K
+K has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+L
+L has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+M
+M has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+N
+N has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+O
+O has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+P
+P has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+Q
+Q has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+R
+R has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+S
+S has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+T
+T has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+U
+U has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+V
+V has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+W
+W has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+X1
+X1 has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+2
+Enter a symbol for delete: 
+X1
+X1 has been deleted.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+X
+X has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+Y
+Y has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+1
+Enter a symbol consisting of 1-6 char: 
+Z
+Z has been added.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+O
+O has the value of: 15
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+P
+P has the value of: 16
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+T
+T has the value of: 20
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+A
+A has the value of: 1
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+B
+B has the value of: 2
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+C
+C has the value of: 3
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+3
+Enter a symbol to retrieve: 
+H
+H has the value of: 8
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+4
+Enter a symbol to return index: 
+A
+A has index of: 1
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+4
+Enter a symbol to return index: 
+K
+K has index of: 2
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+
+4
+Enter a symbol to return index: 
+Y
+Y has index of: 1
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+4
+Enter a symbol to return index: 
+T
+T has index of: 2
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+4
+Enter a symbol to return index: 
+O
+O does not exist.
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+4
+Enter a symbol to return index: 
+P
+P has index of: 1
+
+Application's Options: 
+                       
+1. Insert a symbol key with an associated value in the table
+2. Delete a symbol from the table
+3. Retrieve and display the value associated with a symbol key in the table
+4. Display the hash index of a symbol key
+5. Exit
+                       
+Choose your option: 
+
+5
+Good Bye
